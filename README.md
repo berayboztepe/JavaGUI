@@ -1,6 +1,6 @@
-It is a simple GUI application to write something to the text field. Then, we can change color of the text area background, foreground color, size of font and clear them all.
+- It is a simple GUI application to write something to the text field. Then, we can change color of the text area background, foreground color, size of font and clear them all.
 
-Also there are some menu tools to clear and exit the application.
+- Also there are some menu tools to clear, save-load and exit the application.
 
 How it works:
 
